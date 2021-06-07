@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\pass by value or pass by refrence\bin\Debug\net5.0\pass by value or pass by refrence.exe
+C:\Users\lenovo\Desktop\pass by value or pass by refrence\bin\Debug\net5.0\pass by value or pass by refrence.deps.json
+C:\Users\lenovo\Desktop\pass by value or pass by refrence\bin\Debug\net5.0\pass by value or pass by refrence.runtimeconfig.json
+C:\Users\lenovo\Desktop\pass by value or pass by refrence\bin\Debug\net5.0\pass by value or pass by refrence.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\pass by value or pass by refrence\bin\Debug\net5.0\pass by value or pass by refrence.dll
+C:\Users\lenovo\Desktop\pass by value or pass by refrence\bin\Debug\net5.0\ref\pass by value or pass by refrence.dll
+C:\Users\lenovo\Desktop\pass by value or pass by refrence\bin\Debug\net5.0\pass by value or pass by refrence.pdb
+C:\Users\lenovo\Desktop\pass by value or pass by refrence\obj\Debug\net5.0\pass by value or pass by refrence.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\pass by value or pass by refrence\obj\Debug\net5.0\pass by value or pass by refrence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\pass by value or pass by refrence\obj\Debug\net5.0\pass by value or pass by refrence.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\pass by value or pass by refrence\obj\Debug\net5.0\pass by value or pass by refrence.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\pass by value or pass by refrence\obj\Debug\net5.0\pass by value or pass by refrence.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\pass by value or pass by refrence\obj\Debug\net5.0\pass by value or pass by refrence.dll
+C:\Users\lenovo\Desktop\pass by value or pass by refrence\obj\Debug\net5.0\ref\pass by value or pass by refrence.dll
+C:\Users\lenovo\Desktop\pass by value or pass by refrence\obj\Debug\net5.0\pass by value or pass by refrence.pdb
+C:\Users\lenovo\Desktop\pass by value or pass by refrence\obj\Debug\net5.0\pass by value or pass by refrence.genruntimeconfig.cache
