@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\QUESTION NUMBER 53\bin\Debug\net5.0\QUESTION NUMBER 53.exe
+C:\Users\lenovo\Desktop\QUESTION NUMBER 53\bin\Debug\net5.0\QUESTION NUMBER 53.deps.json
+C:\Users\lenovo\Desktop\QUESTION NUMBER 53\bin\Debug\net5.0\QUESTION NUMBER 53.runtimeconfig.json
+C:\Users\lenovo\Desktop\QUESTION NUMBER 53\bin\Debug\net5.0\QUESTION NUMBER 53.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\QUESTION NUMBER 53\bin\Debug\net5.0\QUESTION NUMBER 53.dll
+C:\Users\lenovo\Desktop\QUESTION NUMBER 53\bin\Debug\net5.0\ref\QUESTION NUMBER 53.dll
+C:\Users\lenovo\Desktop\QUESTION NUMBER 53\bin\Debug\net5.0\QUESTION NUMBER 53.pdb
+C:\Users\lenovo\Desktop\QUESTION NUMBER 53\obj\Debug\net5.0\QUESTION NUMBER 53.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\QUESTION NUMBER 53\obj\Debug\net5.0\QUESTION NUMBER 53.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\QUESTION NUMBER 53\obj\Debug\net5.0\QUESTION NUMBER 53.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\QUESTION NUMBER 53\obj\Debug\net5.0\QUESTION NUMBER 53.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\QUESTION NUMBER 53\obj\Debug\net5.0\QUESTION NUMBER 53.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\QUESTION NUMBER 53\obj\Debug\net5.0\QUESTION NUMBER 53.dll
+C:\Users\lenovo\Desktop\QUESTION NUMBER 53\obj\Debug\net5.0\ref\QUESTION NUMBER 53.dll
+C:\Users\lenovo\Desktop\QUESTION NUMBER 53\obj\Debug\net5.0\QUESTION NUMBER 53.pdb
+C:\Users\lenovo\Desktop\QUESTION NUMBER 53\obj\Debug\net5.0\QUESTION NUMBER 53.genruntimeconfig.cache
